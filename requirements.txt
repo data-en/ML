@@ -4,3 +4,4 @@ python-dotenv # used to read environment variable from ".env" file
 mysql-connector-python
 pymysql
 scikit-learn
+seaborn
